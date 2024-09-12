@@ -1,0 +1,37 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.container {
+    width: 300px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.timer {
+    font-size: 48px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: 3px solid green;
+    background-color: #750541;
+    color: aliceblue;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+button:hover {
+    background-color: rgb(163, 3, 3);
+
+}
