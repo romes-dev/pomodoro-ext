@@ -23,6 +23,7 @@ pomodoro-timer/
 ├── script.js           # Lógica do Pomodoro em JavaScript
 ├── styles.css          # Estilos da interface em CSS
 └── README.md           # Este arquivo de documentação
+```
 
 ## 🚀 Como Instalar Localmente
 
